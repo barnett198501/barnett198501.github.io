@@ -4,7 +4,7 @@ body{margin:0;padding:0;background:#E0FFFF;overflow:auto}
 #garden{width:100%;height:100%}
 #elapseClock{text-align:right;margin-top:10px;margin-bottom:10px}
 #words{font-family:"寰蒋闆呴粦";width:505px;;color:#666}
-#messages{display:none;font-size:18px;font-family:"STXingKai"}
+#messages{display:none;font-size:81px;font-family:"STXingKai"}
 #elapseClock .digit{font-family:"寰蒋闆呴粦"}
 #loveu{padding:5px;margin-top:50px;margin-right:120px;text-align:right;display:none}
 #loveu .signature{margin-top:10px;font-style:italic}
